@@ -4,7 +4,7 @@ project:
 number-depth: 1
 
 book:
-  title: "AI Essentials For Executives"
+  title: "AI Essentials For Tech Executives"
   site-url: "https://ai-execs.com/"
   image: cover.png
   open-graph: true
