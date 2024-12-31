@@ -9,7 +9,7 @@ Without practical experience, it's challenging to separate fact from fiction and
 
 ## Who is this for?
 
-This book is best suited for technology leaders who are managing teams responsible for shipping AI products.
+These materials are best suited for technology leaders who are managing teams responsible for shipping AI products.
 
 ## About the Authors
 
