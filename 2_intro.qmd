@@ -16,11 +16,11 @@ The problem is, a lot of this "advice" comes from other executives who rarely in
 
 ## A Case Study in Misleading AI Advice
 
-An example of this disconnect in action comes from an interview with Jay Keller, CEO of Casetext. 
+An example of this disconnect in action comes from an interview with Jake Keller, CEO of Casetext. 
 
 [![](hn.png)](https://www.youtube.com/clip/UgkxfImJ3KKFQc8jcoLjZ1t0ey3Z4-MSZuoh){target="_blank"}
 
-During the interview (clip linked above), Jay made a statement about AI testing that was widely shared:
+During the interview (clip linked above), Jake made a statement about AI testing that was widely shared:
 
 > One of the things we learned, is that after it passes 100 tests, the odds that it will pass a random distribution of 100k user inputs with **100% accuracy** is very high. (emphasis added)
 

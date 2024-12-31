@@ -1,32 +1,22 @@
 [
   {
-    "objectID": "1_preface.html",
-    "href": "1_preface.html",
-    "title": "2  Preface",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "AI Essentials For Executives",
     "section": "",
-    "text": "2.1 Who We Are\nI’m Hamel Husain, an AI practitioner deeply involved in the technical aspects of artificial intelligence. My partner is Greg Ceccarelli, who brings extensive executive leadership experience as a Director and Chief Product Officer at large organizations like Pluralsight and GitHub. With the combination of my hands-on AI experience and Greg’s executive leadership background, you can be sure that everything you read from us is both technically accurate and accessible to executives like you. In these next chapters, you’ll receive practical and actionable insights on unlocking the true potential of AI to create competitive advantage.",
+    "text": "About the Authors\nI’m Hamel Husain, an AI practitioner deeply involved in the technical aspects of artificial intelligence. My partner is Greg Ceccarelli, who brings extensive executive leadership experience as a Director and Chief Product Officer at large organizations like Pluralsight and GitHub. Together, we bring 25 years of industry experience and have advised 30+ companies on their generative AI initiatives.\nWith the combination of my hands-on AI experience and Greg’s executive leadership background, you can be sure that everything you read from us is both technically accurate and accessible to executives like you. In these next chapters, you’ll receive practical and actionable insights on unlocking the true potential of AI to create competitive advantage.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Preface</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Preface</span>"
     ]
   },
   {
-    "objectID": "1_preface.html#who-we-are",
-    "href": "1_preface.html#who-we-are",
-    "title": "2  Preface",
-    "section": "",
-    "text": "The Authors",
+    "objectID": "index.html#what-to-expect",
+    "href": "index.html#what-to-expect",
+    "title": "AI Essentials For Executives",
+    "section": "What to Expect",
+    "text": "What to Expect\nEach chapter is concise, yet packed with insights you can put into action right away. We’re committed to delivering high-value content that respects your time. With our help, you’ll be well on your way to:\n\nDistinguish between industry hype and reality\nDevelop an AI roadmap aligned with your business goals\nNavigate the complexities of AI implementation with confidence\nFoster a culture of AI innovation within your organization\n\nWe’ll also provide you with cheat sheets and templates you can use to put these lessons into practice right away.\nHamel Husain & Greg Ceccarelli",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Preface</span>"
-    ]
-  },
-  {
-    "objectID": "1_preface.html#what-to-expect",
-    "href": "1_preface.html#what-to-expect",
-    "title": "2  Preface",
-    "section": "2.2 What to Expect",
-    "text": "2.2 What to Expect\nEach chapter is concise, yet packed with insights you can put into action right away. We’re committed to delivering high-value content that respects your time. With our help, you’ll be well on your way to:\n\nDistinguish between industry hype and reality\nDevelop an AI roadmap aligned with your business goals\nNavigate the complexities of AI implementation with confidence\nFoster a culture of AI innovation within your organization\n\nAs a bonus, we’ll also be providing you with cheat sheets and templates you can use to put these lessons into practice right away.\nHamel Husain & Greg Ceccarelli",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Preface</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Preface</span>"
     ]
   },
   {
@@ -180,186 +170,22 @@
     ]
   },
   {
-    "objectID": "4_strategy.html#the-essence-of-good-strategy",
-    "href": "4_strategy.html#the-essence-of-good-strategy",
-    "title": "5  Define Your Strategy",
-    "section": "5.2 The Essence of Good Strategy",
-    "text": "5.2 The Essence of Good Strategy\nGood strategy involves three key elements:\n\nA clear diagnosis of the challenges your organization faces\nA coherent plan of action\nAlignment of resources to address these challenges\n\nLet’s break this down:\n\n5.2.1 Start with a Diagnosis\nThis is the step most organizations skip, but it’s crucial. Take time to clearly define the challenges your organization faces. Be brutally honest - this transparency is the foundation of good strategy. For example, when resetting our strategy in mid-2023, we examined:\n\nThe competitive environment\nImpact of rising interest rates\nAreas where we’d been slow to innovate\nGaps in our ecosystem strategy\n\n\n\n5.2.2 Identify Your Sources of Power\nWhat gives you competitive advantage? There are seven main sources:\n\nBrand\nCornered resources\nProcess power\nNetwork effects\nAnd others…\n\nIn our case, our brand and cornered resources stood out. But we found weaknesses. Our product was too easy to replace and we had no switching costs.\n\n\n5.2.3 Develop a Guiding Policy\nBased on your diagnosis and your edge over competitors, create a policy. It should guide how AI can boost your business strategy.\n\n\n5.2.4 The Costly Mistake to Avoid\nImplementing AI without this strategic foundation can be costly and ineffective. AI implementations are complex, involving:\n\nRethinking customer experience for stochastic outputs\nNew measurement and evaluation methods\nPotentially new infrastructure\n\nIf your AI app doesn’t create new power for your business, it will likely fail.",
-    "crumbs": [
-      "Strategy",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Define Your Strategy</span>"
-    ]
-  },
-  {
-    "objectID": "4_strategy.html#define-your-strategy-worksheet",
-    "href": "4_strategy.html#define-your-strategy-worksheet",
-    "title": "5  Define Your Strategy",
-    "section": "5.3 Define Your Strategy Worksheet",
-    "text": "5.3 Define Your Strategy Worksheet\nThe process I’ve outlined above is of little value if you do not put it into practice. That’s why I’ve created a system (in the next section), with examples. I’ve honed this over a decade of leading AI initiatives and have used it to help many organizations.\nKeep reading on the worksheet.",
-    "crumbs": [
-      "Strategy",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Define Your Strategy</span>"
-    ]
-  },
-  {
-    "objectID": "4b_strategy.html",
-    "href": "4b_strategy.html",
-    "title": "6  Define Your Strategy Worksheet",
-    "section": "",
-    "text": "6.1 Find your AI edge: Don’t try to do everything\nIf your AI strategy centers around a chatbot where customers can “ask anything,” this article is for you.\nMany companies are adding AI everywhere. This is a mistake. When everyone does the same thing, no one stands out.\nThe best AI strategy amplifies your company’s strengths.\nThis article walks you through a step-by-step process on how to:\nWe’ll use a case study to walk through these steps.\nRemember: It’s not about using AI everywhere. It’s about using it where it counts most for your business.",
-    "crumbs": [
-      "Strategy",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Define Your Strategy Worksheet</span>"
-    ]
-  },
-  {
-    "objectID": "4b_strategy.html#find-your-ai-edge-dont-try-to-do-everything",
-    "href": "4b_strategy.html#find-your-ai-edge-dont-try-to-do-everything",
-    "title": "6  Define Your Strategy Worksheet",
-    "section": "",
-    "text": "Diagnose where your business is now\nCreate a guiding policy that sets you apart\nSequence coherent actions that move you forward\nCommunicate your strategy effectively",
-    "crumbs": [
-      "Strategy",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Define Your Strategy Worksheet</span>"
-    ]
-  },
-  {
-    "objectID": "4b_strategy.html#learning-from-an-example-company",
-    "href": "4b_strategy.html#learning-from-an-example-company",
-    "title": "6  Define Your Strategy Worksheet",
-    "section": "6.2 Learning from an example company",
-    "text": "6.2 Learning from an example company\nLet’s look at a made-up company called ACME E-Commerce (ACME) to see how good planning works. We’ll act like we’re the leaders of this company.\nACME’S Profile:\n\nFounded in 2019, ACME is a Software-as-a-Service (SaaS) company specializing in e-commerce solutions tailored for small businesses.\nOffers a user-friendly, affordable, and scalable e-commerce platform.\nIt lets customers easily build and grow their online presence, without being nickel-and-dimed.\n\n\n\n\n\n\n\n👉 Click to expand ACME’s strategy 👈\n\n\n\n\n\n\n\n\n\n\n\n\nCategory\nDescription\n\n\n\n\nMission\nTo empower small businesses by providing accessible e-commerce tools that facilitate digital growth.\n\n\nBusiness Strategy\nBe the one stop shop for SMBs that lack extensive technical expertise or large budgets. Target startups and entrepreneurs who are underserved by larger e-commerce platforms by competing on price and 24/7 customer service.\n\n\nProduct Strategy\nCreate a simple, user-friendly platform that needs no tech skills. Charge a single unwavering price of $15 a month with no sales caps and comparable transaction fees for payments. Subscription fees must always be 30 - 50% less than the equivalent plan on Shopify, WooCommerce, BigCommerce, or Wix.\n\n\nProduct\nACME is a single product company. “ACME Storefront” includes website building tools, shopping cart functionality, secure payment processing, and inventory management as an all-in-one.\n\n\n\n\n\n\n\n2023 EOY Simplified Financials:\n\n\n\n\n\n\n\nMetric\nValues\n\n\n\n\nAnnual Revenue\n$120M growing 18% YoY.\n\n\nRevenue Sources\n~20% from subscriptions, ~80% from payment transaction fees.\n\n\nGross Retention Rate\n92%\n\n\nEBITDA\n$13M\n\n\nCustomers\n130,000\n\n\nHeadcount\n350\n\n\n\n2023 EOY Color Commentary\n\nWe missed expectations of 24% YoY top line growth .\nOur competitors Shopify, BigCommerce, WooCommerce and Wix were busy adding AI into their products. In particular, the Shopify Magic release in April 2023 generated headlines.\nOur EBITDA margin is healthy as is our gross retention rate.\nOur revenue per employee (RPE) is $342K and average revenue per customer (ARPC) is ~$920.\n\nIt’s now January 2024 and we have to finalize our Annual Operating Plan for sign-off by the next board meeting in Mid-February. Our board members are eager to review and comment on our plans to update our strategy to take with AI.\nWhat do we do?",
-    "crumbs": [
-      "Strategy",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Define Your Strategy Worksheet</span>"
-    ]
-  },
-  {
-    "objectID": "4b_strategy.html#step-1-start-with-a-transparent-diagnosis",
-    "href": "4b_strategy.html#step-1-start-with-a-transparent-diagnosis",
-    "title": "6  Define Your Strategy Worksheet",
-    "section": "6.3 Step 1 → Start with a transparent diagnosis",
-    "text": "6.3 Step 1 → Start with a transparent diagnosis\nA doctor always diagnoses before suggesting a treatment. We must first name the disease. No matter performance, start here.\nLet’s consider the following areas:\n\nMacro environment: What conditions have changed over the last year?\nInternal Capabilities: How strong is our internal team and where are the gaps?\nCompetitive Advantage: What sources of power can we amplify with AI?\nPricing Strategy: Is it right to be profit maximizing, penetrating or skimming?\nEcosystem Strength: How can we improve through or with partners?\n\n\n\n\n\n\n\n👉 Click to expand AIs impact across each area 👈\n\n\n\n\n\n\n\n\n\n\n\n\nArea\nThe clear impact of AI\n\n\n\n\nMacro environment\nBarriers to entry: It has made it easier for startups to start. They can now innovate faster and at lower cost.  Industry convergence: has blurred lines. It has allowed tech firms like Google and Amazon to enter healthcare and finance.\n\n\nInternal Capabilities\nTalent: Incumbents are struggling to hire and upskill. The need for data scientists, AI engineers and AI Literate leaders has created a wide talent gap. Decision Making: AI tools can help incumbents optimize pricing, inventory, and marketing on-the-fly. This creates a need for faster decision-making.Organizational Structure: To use AI in decision-making, you must question hierarchical, bureaucratic organizational models.\n\n\nCompetitive Advantage\nProcess Power: AI speeds up product development by massively reducing cycle times. Incumbents that rely on long R&D cycles are at a disadvantage.Cornered Resources: AI has amplified the value of proprietary data. The more you can ethically collect, the better your use of AI becomes.Brand: AI driven improvements in customer experience (e.g. a seamless shopping experience) can elevate and improve your brand’s equity.Switching costs: Personalization and historical data lock-in can make it harder for your customers to leave for another competitorNetwork effects: AI enhanced personalization helps to attract more users and create more engagement driving greater value for the entire service. Scale Economies: Automation of the productivity zone — reduction of costs across manufacturing, customer service and logistics enables companies to produce more with less. Counter positioning: Real time AI powered services undermine traditional manual methods. Example: Lemonade uses AI to process insurance claims instantly.\n\n\nPricing Strategy\nProfit Maximization: personalized, dynamic pricing is being implemented much to customer chagrin. Airlines, Uber and even Burger King are implementing this.  Penetration Pricing: advanced customer segmentation to identify high LTV cohorts to target with low introductory pricing is on the rise.  Skimming: improved demand forecasting using AI is suggesting when to lower prices to attract the next wave of more price-sensitive customers while still maximizing revenue.\n\n\nEcosystem Strength\nTime to Market: Many incumbents are realizing they can’t build all AI capabilities in-house. Instead, they are forming partnerships with AI startups or acquiring them to infuse innovation into their business models.\n\n\n\n\n\n\n\n\n6.3.1 ACME’s Diagnosis\nDiagnosis Summary: Our business strategy has always relied on penetration pricing. We aim to gain an edge by counter positioning against the competitive field to attract our ICP. We haven’t invested enough to boost our brand equity against the others. This moment to leverage AI provides new opportunity.\nDiagnosis Detail: Reasons our growth was impacted in 2023\n\nU.S. Monetary policy contraction and rising interest rates slowed the rate of new business starts in our target market. We haven’t been as sensitive to this as we should have.\nOur talent position is strong — 10% of employee base is an AI engineer, data scientist or data engineer.\nCompetitors have used their resource advantage to invest in features like: AI enhanced site editing, automatic SEO optimization with AI, advanced analytics for merchants and other core app integrations.\nWhile our core product has advanced, we’ve kept our subscription pricing the same.\nOur NPS remains extremely high but our cost to serve has increased and our gross margins have decreased YoY.\n\n\n\n6.3.2 💡 Diagnosis: Pro Tips\n\nThis diagnosis is best done first with five to six senior leaders at your organization. A time-bound, recorded dialogue is a great way to generate a first draft. It can be transcribed and refined on paper.\nIt’s tempting to try to do too much. Instead, first name and unpack your sources of competitive advantage. This focus is because it is where to concentrate AI application.\nSelf honesty is the best policy. You usually won’t have more than two sources of world-class competitive advantage.\nAfter your first draft, get help from other executives. It’s best to assess your internal capabilities and team next.\nYour diagnosis, no matter how complex your business, should fit on a single page or less.\nOnce your draft is done, circulate to the next level of leaders in your organization for review and comment.",
-    "crumbs": [
-      "Strategy",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Define Your Strategy Worksheet</span>"
-    ]
-  },
-  {
-    "objectID": "4b_strategy.html#step-2-synthesize-your-guiding-policy",
-    "href": "4b_strategy.html#step-2-synthesize-your-guiding-policy",
-    "title": "6  Define Your Strategy Worksheet",
-    "section": "6.4 Step 2 → Synthesize your guiding policy",
-    "text": "6.4 Step 2 → Synthesize your guiding policy\nWith a diagnosis in hand, it can be tempting to want to apply AI everywhere, don’t do this.\nAs an executive you must ensure your organization works toward a small set of high leverage outcomes.\nAnd that value creation happens in only two ways:\n\n\n\n\n\n\n\nWays to increase value\nVisual\n\n\n\n\n 1. Increase customers’ willingness to pay2. Decrease employees’ or suppliers’ willingness to sell.\n\n\n\n\n\n6.4.1 ACME’s New Guiding Policy\nIt’s rare to change the mission of a company and so in this case we don’t focus on it. We’ll focus on two of the most important components our business and product strategy. As a refresher, for ACME:\n\nBusiness strategy: to be the one stop shop for SMBs that lack extensive technical expertise or large budgets.\nProduct Strategy: create a simple, user-friendly platform that needs no tech skills. Charge a single price of $15 a month with no sales caps and comparable transaction fees for payments\n\nWe know where our current source of competitive advantage has been (i.e. Counter Positioning) and have insights into the future where we can look to create new competitive advantage with AI.\nThe diagnosis is an instruction manual.\nGuiding Policy Summary:\nCreate new durable advantage by becoming the de-facto e-commerce brand of choice by charging $0 platform subscription fees for all SMB customers. Update our product strategy to reflect this. We’ll use AI in two main ways moving forward:\n\nTo increase our ability to amplify our more aggressive penetration pricing strategy with internal AI customer segmentation and targeting\nTo expand our single product offering with AI SEO tools to ensure SMBs rank in search results.\n\n\n\n\n\n\n\n\n👉 Click to expand reasoning details 👈\n\n\n\n\n\n\n\n\n\n\n\n\nWhy this works\nMistakes we avoided\n\n\n\n\nWe need to focus on top line growth to succeed. This requires growing our percentage share of customers in the hyper competitive e-commerce store market.\nWe could have tried to alter our business strategy — “AI’fying” in a way that would be a thinly veiled attempt to capture interest.\n\n\nOur customers have always chosen ACME based on our low cost value proposition. We know we need to own this.\nWe could have tried to match all of the AI features that our competitors are now offering instead of focusing on a single area that.\n\n\nOur competitors with higher percentages of revenue coming from subscriptions can’t afford to match this product strategy revision further solidifying our counter positioning source of power\nWe could have decided to use AI to offer customer support chatbots to reduce our costs to supplement our 24/7 phone based support which has always been core to ACME.\n\n\nOur brand’s strength is directly correlated with the success of our merchant’s. Using AI to create a new product offering that helps them rank higher in their respective markets is a better use of our limited resources than improving our WYSIWYG editor with AI for example.\nWe could have tried to raise subscription prices to superficially grow revenue.\n\n\n\n\n\n\n\n\n6.4.2 💡 Guiding Policy: Pro Tips\n\nYour guiding policy is not a vague statement but a clear and actionable response to the problem identified in the diagnosis.\nYou should be able to ask yourself: Does this policy provide a framework for addressing the root challenges?\nMake sure your guiding policy does not specify every tactical detail. It is to be used to narrow down a field of possibilities.\nGuiding policies create choices about what not to do. Ensure yours does.\nStrong guiding policies exploit your organizations unique strengths and sources of power.\nIf there are changes to your business strategy they should be evolutions and not revolutions except in the most severe of circumstances.",
-    "crumbs": [
-      "Strategy",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Define Your Strategy Worksheet</span>"
-    ]
-  },
-  {
-    "objectID": "4b_strategy.html#step-3-define-your-coherent-actions",
-    "href": "4b_strategy.html#step-3-define-your-coherent-actions",
-    "title": "6  Define Your Strategy Worksheet",
-    "section": "6.5 Step 3 → Define your coherent actions",
-    "text": "6.5 Step 3 → Define your coherent actions\nThis is where you get to defining the work. Far too many executives jump to step 3 without a firm diagnosis and guiding policy. This is a mistake.\nThe keyword here is coherent. Actions must stem from your guiding policy and reinforce one another. They are not a random set of initiatives. They are cooridinated and designed to work in harmony.\nThey also must be sequenced but not as a laundry list.\nLet’s now turn our attention back to ACME.\n\n6.5.1 ACME’s Coherent Actions\nSummary\n\nLaunch $0 subscription fee for SMB customers to drive growth through aggressive penetration pricing.\nImplement AI-powered customer segmentation and targeting to maximize customer acquisition efficiency.\nDevelop AI SEO tools for SMB merchants to improve search visibility and enhance ACME’s product differentiation.\nOptimize customer support with AI tools while maintaining 24/7 phone support, a key brand differentiator.\nLeverage AI for real-time personalization and conversion optimization to elevate merchant success.\nForm strategic partnerships with AI startups to accelerate feature development without overextending resources.\nEnhance data collection to continually improve AI-driven tools and insights for merchants.\n\n\n\n\n\n\n\n\nClick for a breakdown of each action\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAction\nWhat\nHow\nWhy it’s coherent\n\n\n\n\n1. Launch $0 Subscription Fee Initiative for SMB Customers\nEliminate the $15 monthly subscription fee to attract more small businesses, particularly those that may be price-sensitive or undecided between ACME and competitors.\n• Communicate the new pricing strategy aggressively through targeted marketing campaigns.• Leverage existing customer data to pinpoint segments that would benefit most from this pricing change.• Align all product and customer service messaging to emphasize the “no-cost” platform approach while maintaining competitive transaction fees.\nThis action directly supports the guiding policy’s focus on aggressive penetration pricing by creating a clear, differentiated offer that competitors with high subscription revenue dependence will struggle to match.\n\n\n2. Implement AI-Powered Customer Segmentation and Targeting\nUse AI to identify high-value customer segments that are most likely to convert and benefit from the $0 subscription fee offering.\n• Develop machine learning models to analyze customer data and predict potential high-LTV (lifetime value) customers.• Use these insights to create targeted advertising campaigns and personalized messaging for prospective customers.• Focus marketing spend on these segments to maximize the ROI on customer acquisition.\nThis action enhances the penetration pricing strategy by focusing acquisition efforts on the most promising segments, maximizing the impact of the pricing change. It also amplifies the guiding policy’s emphasis on AI-driven growth.\n\n\n3. Develop and Launch AI SEO Tools for SMBs\nCreate and integrate an AI-driven SEO optimization tool into ACME Storefront that helps small businesses improve their search engine rankings without needing technical expertise.\n• Collaborate with AI engineers and product managers to develop an intuitive SEO tool that requires no technical know-how from users.• Roll out the new feature with a clear tutorial, in-platform guidance, and dedicated customer support.• Market the new feature as a core differentiator for ACME compared to competitors.\nThis action directly supports the guiding policy’s focus on expanding the product offering by adding high-value AI features, which also enhances ACME’s brand by helping SMBs succeed through better online visibility.\n\n\n4. Optimize Customer Support Costs Without Sacrificing Quality\nImplement an AI-driven internal support system to streamline operations, but without replacing ACME’s 24/7 phone support, which is a core differentiator.\n• Introduce AI tools for customer support teams, such as AI-driven knowledge bases, to reduce the time spent resolving common issues.• Train customer support representatives on using these tools to improve efficiency and service quality.• Monitor customer satisfaction and retention rates to ensure that the quality of support remains a key differentiator.\nThis action helps reduce operational costs (important given increased cost-to-serve) without undermining the core service model that differentiates ACME from competitors.\n\n\n5. Leverage AI for Real-Time Personalization and Conversion Optimization\nUse AI to provide real-time personalization features for ACME merchants, helping them create more tailored shopping experiences for their customers.\n• Integrate AI algorithms to analyze customer behavior and dynamically suggest product recommendations, discounts, and personalized offers for merchants’ stores.• Offer merchants real-time analytics tools that provide actionable insights on their store’s performance and customer preferences.• Focus on rolling out these features in stages, ensuring seamless integration into the existing platform.\nThis action taps into AI’s potential to improve customer experience and supports the brand-building element of the guiding policy, helping ACME merchants succeed and further differentiating ACME from competitors.\n\n\n6. Form Strategic AI Partnerships to Expand Capabilities\nPartner with AI startups or service providers to accelerate the development of cutting-edge AI features, without building everything in-house.\n• Identify startups or AI companies that specialize in e-commerce or SMB-focused tools that align with ACME’s product strategy.• Negotiate partnerships to integrate their tools into ACME Storefront (e.g., AI-driven inventory management, dynamic pricing suggestions).• Focus on partnerships that provide long-term value and alignment with ACME’s core customer base of small businesses.\nThis action supports the ecosystem strength component of the diagnosis, allowing ACME to bring advanced AI capabilities to its platform quickly while maintaining focus on core competencies.\n\n\n7. Enhance Data Collection to Strengthen AI Models\nCollect more structured and unstructured data from customers and merchants to fuel future AI-driven insights and personalization features.\n• Introduce opt-in data collection features that allow merchants to share additional data on their customers and sales patterns.• Ensure compliance with data privacy regulations to maintain trust while enhancing the value of the data collected.• Use this data to continually refine and improve AI-driven tools such as customer segmentation and SEO recommendations.\nThis action ties into the cornered resources advantage, where proprietary data collection and use amplify AI’s value for ACME’s competitive edge.\n\n\n\n\n\n\n\n\n6.5.2 💡 Coherent Actions: Pro Tips\n\nIf you can’t draw a direct line between your actions and the policy, reconsider.\nDon’t try to do everything. Prioritize actions that have the greatest potential to move the needle.\nCoherent actions aren’t just about individual projects. Cross-functional collaboration is key to making sure actions complement, not conflict.\nPrioritize and stage your actions based on logical dependencies. Some initiatives will pave the way for others to succeed, so make sure you tackle them in the right order.\nCoherent actions are most powerful when you have a feedback loop. Set up metrics and checkpoints to track progress, learn from what’s working, and adjust your actions if needed.\nStay focused on no more than 10 actionto avoid spreading yourself thin.",
-    "crumbs": [
-      "Strategy",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Define Your Strategy Worksheet</span>"
-    ]
-  },
-  {
-    "objectID": "4b_strategy.html#step-4-communicate-your-strategy",
-    "href": "4b_strategy.html#step-4-communicate-your-strategy",
-    "title": "6  Define Your Strategy Worksheet",
-    "section": "6.6 Step 4 → Communicate your strategy",
-    "text": "6.6 Step 4 → Communicate your strategy\nIn this new AI era your strategy needs to be explicitly communicated. “Execution eats strategy for breakfast” is no longer singularly true.\nIt does not hold up against today’s rapid technological disruption.\nIf you’re not headed in the right direction, execution alone won’t be enough. You need to bring your people along with you.\n\n6.6.1 ⚠️Top Mistakes to avoid\n\nLacking clarity and simplicity. It’s easier to overload your message with jargon, complex ideas or too many objectives and it can be your death knell.\nFailure to tie your strategy together. Disconnected initiatives that don’t tie back to the mission of your business will cause employees to hesitate to embrace.\nNot engaging key stakeholder early enough: If people feel that a new strategy was created without their input, they will be skeptical of its relevance.\nFocusing only on the positive: Employees will lose trust if the communication feels overly optimistic. This is the core reason to include the honest diagnosis into your final communication.\nOverloading with information: providing too much detail at once overwhelms and reduces emphasis on the most critical elements. This is especially relevant to organizations who try to “AI-ify” every part of their business.\n\n\n\n6.6.2 🎀 Putting everything in this guide together\nThe “Business on a Page” approach is a tried and true practical framework designed to simplify and clarify an organization’s strategy. The concept is part of a larger body of work focused on organizational health and effective leadership, highlighted in Patrick Lencioni’s book The Advantage.\nIt focuses on answering six critical questions:\n\nWhy Do We Exist? (Mission)\nHow Do We Behave? (Core Values)\nWhat Do We Do? (Business Strategy)\nHow Will We Succeed? (New Strategic Decisions)\nWhat Is Most Important Right Now? (Sequenced Actions)\nWho Must Do What? (Roles & Responsibilities)\n\nThe benefits of using this approach are in its clarity, simplicity, focus, transparency and consistency. As a framework, it works for you in helping to avoid the top mistakes.\n\n\n6.6.3 ACME’s Business on a Page\nGiven the work we’ve done together through this case, we can now synthesize the Why, What and How onto a single page.\n\n\n\n\n\n\n\nQuestion\nACME Example\n\n\n\n\nWhy Do We Exist?\nWhy do we existMission: To empower small businesses by providing accessible e-commerce tools that facilitate digital growth.\n\n\nWhat Do We Do?\nWhat do we doWe provide a SaaS e-commerce platform for small businesses to easily create and manage online stores.\n\n\nHow Will We Succeed?\nHow will we succeed?By creating new durable advantage by becoming the de-facto e-commerce brand of choice by charging $0 platform subscription fees for all SMB customers. We’ll use AI in two main ways moving forward:- To increase our ability to amplify our more aggressive penetration pricing strategy with internal AI customer segmentation and targeting- To expand our single product offering with AI SEO tools to ensure SMBs rank in search results.\n\n\nWhat Is Most Important Right Now?\nWhat is most important right now?Grow our customer base and 2024 revenue by more than 25% YoY via the following seven cooridinated actions:1. Launch $0 subscription fee for SMB customers2. Implement AI-powered customer segmentation and targeting 3. Develop AI SEO tools for SMB merchants4. Optimize customer support with AI tools5. Leverage AI for real-time personalization6. Form strategic partnerships with AI startups** 7. Enhance data collection\n\n\nWho Must Do What?\n- CMO to lead new marketing messaging into the market communicating our updated product strategy- CTO to integrate AI SEO tools into the platform; - Sales to drive onboarding of new customers\n\n\n\nBy integrating all of these steps to you will already be a step ahead of your competitors. Your deep hands on understanding of your business coupled with the right approach is worth more than any “AI strategy Framework” that a large consulting company will try to sell you.",
-    "crumbs": [
-      "Strategy",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Define Your Strategy Worksheet</span>"
-    ]
-  },
-  {
-    "objectID": "4b_strategy.html#appendix-what-large-consulting-and-technology-firms-want-to-sell-you",
-    "href": "4b_strategy.html#appendix-what-large-consulting-and-technology-firms-want-to-sell-you",
-    "title": "6  Define Your Strategy Worksheet",
-    "section": "6.7 Appendix — What large consulting and technology firms want to sell you",
-    "text": "6.7 Appendix — What large consulting and technology firms want to sell you\n\n\n\nFramework\nOrganization\nOverview\nExample\n\n\n\n\nAI Strategy Framework\nMcKinsey\n• Strategic Alignment• Data Strategy• AI Capabilities and Talent• Change Management\n\n\n\nAI Maturity Model\nGartner\n• Level 1: Awareness• Level 2: Active Experimentation• Level 3: Operationalized AI• Level 4: Systemic• Level 5: Transformational\n\n\n\nAI Transformation Framework\nMicrosoft\n• Strategy• Business Case• Change Management• Compliance• Education and Training\n\n\n\nAI Factory Framework\nCapgemini\n• Identify the Right Use Cases• Prototype Development• Scale AI Solutions• Optimize and Iterate\n\n\n\nAI Strategy\nAccenture\n• Strategy and Sponsorship• Data and AI core• Talent and culture• Responsible AI\n\n\n\nThree-Layered AI Strategy\nBCG\n• Deploy: AI as a Business Driver• Reshape: AI as a Platform for Growth• Invent: AI Transformation Enabler\n\n\n\nAI Ladder Framework\nIBM\n• Modernise • Collect• Organize• Analyze• Infuse",
-    "crumbs": [
-      "Strategy",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Define Your Strategy Worksheet</span>"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "AI Essentials For Executives",
-    "section": "",
-    "text": "About the Authors\nI’m Hamel Husain, an AI practitioner deeply involved in the technical aspects of artificial intelligence. My partner is Greg Ceccarelli, who brings extensive executive leadership experience as a Director and Chief Product Officer at large organizations like Pluralsight and GitHub. Together, we bring 25 years of industry experience and have advised 30+ companies on their generative AI initiatives.\nWith the combination of my hands-on AI experience and Greg’s executive leadership background, you can be sure that everything you read from us is both technically accurate and accessible to executives like you. In these next chapters, you’ll receive practical and actionable insights on unlocking the true potential of AI to create competitive advantage.",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Preface</span>"
-    ]
-  },
-  {
-    "objectID": "index.html#who-we-are",
-    "href": "index.html#who-we-are",
-    "title": "AI Mastery For Busy Execs",
-    "section": "1.1 Who We Are",
-    "text": "1.1 Who We Are\n\n\n\nThe Authors\n\n\nI’m Hamel Husain, an AI practitioner deeply involved in the technical aspects of artificial intelligence. My partner is Greg Ceccarelli, who brings extensive executive leadership experience as a Director and Chief Product Officer at large organizations like Pluralsight and GitHub. With the combination of my hands-on AI experience and Greg’s executive leadership background, you can be sure that everything you read from us is both technically accurate and accessible to executives like you. In these next chapters, you’ll receive practical and actionable insights on unlocking the true potential of AI to create competitive advantage.",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Preface</span>"
-    ]
-  },
-  {
-    "objectID": "index.html#what-to-expect",
-    "href": "index.html#what-to-expect",
-    "title": "AI Essentials For Executives",
-    "section": "What to Expect",
-    "text": "What to Expect\nEach chapter is concise, yet packed with insights you can put into action right away. We’re committed to delivering high-value content that respects your time. With our help, you’ll be well on your way to:\n\nDistinguish between industry hype and reality\nDevelop an AI roadmap aligned with your business goals\nNavigate the complexities of AI implementation with confidence\nFoster a culture of AI innovation within your organization\n\nWe’ll also provide you with cheat sheets and templates you can use to put these lessons into practice right away.\nHamel Husain & Greg Ceccarelli",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Preface</span>"
-    ]
-  },
-  {
-    "objectID": "3b_glossary.html#introduction",
-    "href": "3b_glossary.html#introduction",
-    "title": "4  AI Communication Cheat Sheet",
-    "section": "5.1 Introduction",
-    "text": "5.1 Introduction\nAs an executive, using simple language helps your team understand AI concepts better. This cheat sheet will show you how to avoid jargon and speak plainly about AI. This way, everyone on your team can work together more effectively.\nAt the end of this guide, you’ll find a helpful glossary. It explains common AI terms in plain language.",
-    "crumbs": [
-      "Focus on processes, not tools",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>AI Communication Cheat Sheet</span>"
-    ]
-  },
-  {
-    "objectID": "4_strategy.html#the-foundation-of-strategic-implementation",
-    "href": "4_strategy.html#the-foundation-of-strategic-implementation",
+    "objectID": "4_strategy.html#the-trap-of-hype-driven-implementation",
+    "href": "4_strategy.html#the-trap-of-hype-driven-implementation",
     "title": "5  Identify Your Strategy",
-    "section": "The Foundation of Strategic Implementation",
-    "text": "The Foundation of Strategic Implementation\nGood strategy involves three key elements:\n\nA clear diagnosis of your organization’s challenges\nA coherent plan of action\nAlignment of resources to address these challenges\n\nThe worksheet below will guide you through each of these elements using an example.",
+    "section": "",
+    "text": "A clear diagnosis of your organization’s challenges\nA coherent plan of action\nAlignment of resources to address these challenges",
     "crumbs": [
-      "Strategy",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Identify Your Strategy</span>"
     ]
   },
   {
-    "objectID": "4_strategy.html#putting-strategy-into-practice",
-    "href": "4_strategy.html#putting-strategy-into-practice",
-    "title": "5  Define Your Strategy",
-    "section": "5.3 Putting Strategy Into Practice",
-    "text": "5.3 Putting Strategy Into Practice\nThe worksheet below will guide you through each of these elements using a real-world example. We’ll examine ACME E-Commerce, a company facing the same challenges you might be encountering. Through their story, you’ll learn how to:\n\nMove beyond generic AI implementations\nCreate genuine competitive advantage\nMake strategic choices that amplify your existing strengths",
-    "crumbs": [
-      "Strategy",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Define Your Strategy</span>"
-    ]
-  },
-  {
-    "objectID": "4_strategy.html#find-your-ai-edge-dont-try-to-do-everything",
-    "href": "4_strategy.html#find-your-ai-edge-dont-try-to-do-everything",
+    "objectID": "4_strategy.html#identify-your-strategy-worksheet",
+    "href": "4_strategy.html#identify-your-strategy-worksheet",
     "title": "5  Identify Your Strategy",
-    "section": "Find your AI edge: Don’t try to do everything",
-    "text": "Find your AI edge: Don’t try to do everything\nThe best AI strategy amplifies your company’s strengths. Through this worksheet, you’ll learn how to create one.\nUsing ACME E-Commerce as our guide, we’ll walk through a step-by-step process to:\n\nDiagnose where your business is now\nCreate a guiding policy that sets you apart\nSequence coherent actions that move you forward\nCommunicate your strategy effectively\n\nRemember: It’s not about using AI everywhere. It’s about using it where it counts most for your business. Let’s walk through an example.",
+    "section": "Identify Your Strategy Worksheet",
+    "text": "Identify Your Strategy Worksheet\nThe best AI strategy amplifies your company’s strengths. Through this worksheet, you’ll learn how to create one.\nUsing ACME E-Commerce as our guide, we’ll walk through a step-by-step process to:\n\nDiagnose where your business is now\nCreate a guiding policy that sets you apart\nSequence coherent actions that move you forward\nCommunicate your strategy effectively\n\nRemember: It’s not about using AI everywhere. It’s about using it where it counts most for your business. Let’s walk through an example.",
     "crumbs": [
-      "Strategy",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Identify Your Strategy</span>"
     ]
   },
@@ -414,74 +240,11 @@
     ]
   },
   {
-    "objectID": "4_strategy.html#appendix-what-large-consulting-and-technology-firms-want-to-sell-you",
-    "href": "4_strategy.html#appendix-what-large-consulting-and-technology-firms-want-to-sell-you",
-    "title": "5  Identify Your Strategy",
-    "section": "6.7 Appendix — What large consulting and technology firms want to sell you",
-    "text": "6.7 Appendix — What large consulting and technology firms want to sell you\n\n\n\nFramework\nOrganization\nOverview\nExample\n\n\n\n\nAI Strategy Framework\nMcKinsey\n• Strategic Alignment• Data Strategy• AI Capabilities and Talent• Change Management\n\n\n\nAI Maturity Model\nGartner\n• Level 1: Awareness• Level 2: Active Experimentation• Level 3: Operationalized AI• Level 4: Systemic• Level 5: Transformational\n\n\n\nAI Transformation Framework\nMicrosoft\n• Strategy• Business Case• Change Management• Compliance• Education and Training\n\n\n\nAI Factory Framework\nCapgemini\n• Identify the Right Use Cases• Prototype Development• Scale AI Solutions• Optimize and Iterate\n\n\n\nAI Strategy\nAccenture\n• Strategy and Sponsorship• Data and AI core• Talent and culture• Responsible AI\n\n\n\nThree-Layered AI Strategy\nBCG\n• Deploy: AI as a Business Driver• Reshape: AI as a Platform for Growth• Invent: AI Transformation Enabler\n\n\n\nAI Ladder Framework\nIBM\n• Modernise • Collect• Organize• Analyze• Infuse",
-    "crumbs": [
-      "Strategy",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Identify Your Strategy</span>"
-    ]
-  },
-  {
-    "objectID": "index.html#about-the-authors",
-    "href": "index.html#about-the-authors",
-    "title": "AI Essentials For Executives",
-    "section": "",
-    "text": "The Authors",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Preface</span>"
-    ]
-  },
-  {
-    "objectID": "4_strategy.html#what-large-consulting-and-technology-firms-want-to-sell-you",
-    "href": "4_strategy.html#what-large-consulting-and-technology-firms-want-to-sell-you",
-    "title": "5  Identify Your Strategy",
-    "section": "6.7 What large consulting and technology firms want to sell you",
-    "text": "6.7 What large consulting and technology firms want to sell you\n\n\n\nFramework\nOrganization\nOverview\nExample\n\n\n\n\nAI Strategy Framework\nMcKinsey\n• Strategic Alignment• Data Strategy• AI Capabilities and Talent• Change Management\n\n\n\nAI Maturity Model\nGartner\n• Level 1: Awareness• Level 2: Active Experimentation• Level 3: Operationalized AI• Level 4: Systemic• Level 5: Transformational\n\n\n\nAI Transformation Framework\nMicrosoft\n• Strategy• Business Case• Change Management• Compliance• Education and Training\n\n\n\nAI Factory Framework\nCapgemini\n• Identify the Right Use Cases• Prototype Development• Scale AI Solutions• Optimize and Iterate\n\n\n\nAI Strategy\nAccenture\n• Strategy and Sponsorship• Data and AI core• Talent and culture• Responsible AI\n\n\n\nThree-Layered AI Strategy\nBCG\n• Deploy: AI as a Business Driver• Reshape: AI as a Platform for Growth• Invent: AI Transformation Enabler\n\n\n\nAI Ladder Framework\nIBM\n• Modernise • Collect• Organize• Analyze• Infuse",
-    "crumbs": [
-      "Strategy",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Identify Your Strategy</span>"
-    ]
-  },
-  {
-    "objectID": "4_strategy.html#what-large-consulting-firms-want-to-sell-you",
-    "href": "4_strategy.html#what-large-consulting-firms-want-to-sell-you",
-    "title": "5  Identify Your Strategy",
-    "section": "6.7 What large consulting firms want to sell you",
-    "text": "6.7 What large consulting firms want to sell you\n\n\n\nFramework\nOrganization\nOverview\nExample\n\n\n\n\nAI Strategy Framework\nMcKinsey\n• Strategic Alignment• Data Strategy• AI Capabilities and Talent• Change Management\n\n\n\nAI Maturity Model\nGartner\n• Level 1: Awareness• Level 2: Active Experimentation• Level 3: Operationalized AI• Level 4: Systemic• Level 5: Transformational\n\n\n\nAI Transformation Framework\nMicrosoft\n• Strategy• Business Case• Change Management• Compliance• Education and Training\n\n\n\nAI Factory Framework\nCapgemini\n• Identify the Right Use Cases• Prototype Development• Scale AI Solutions• Optimize and Iterate\n\n\n\nAI Strategy\nAccenture\n• Strategy and Sponsorship• Data and AI core• Talent and culture• Responsible AI\n\n\n\nThree-Layered AI Strategy\nBCG\n• Deploy: AI as a Business Driver• Reshape: AI as a Platform for Growth• Invent: AI Transformation Enabler\n\n\n\nAI Ladder Framework\nIBM\n• Modernise • Collect• Organize• Analyze• Infuse",
-    "crumbs": [
-      "Strategy",
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Identify Your Strategy</span>"
-    ]
-  },
-  {
     "objectID": "4_strategy.html#whats-next",
     "href": "4_strategy.html#whats-next",
     "title": "5  Identify Your Strategy",
     "section": "What’s next?",
     "text": "What’s next?\nIf the next chapter, we will discuss how to effectively communicate your strategy.",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Identify Your Strategy</span>"
-    ]
-  },
-  {
-    "objectID": "4_strategy.html#identify-your-strategy-worksheet",
-    "href": "4_strategy.html#identify-your-strategy-worksheet",
-    "title": "5  Identify Your Strategy",
-    "section": "Identify Your Strategy Worksheet",
-    "text": "Identify Your Strategy Worksheet\nThe best AI strategy amplifies your company’s strengths. Through this worksheet, you’ll learn how to create one.\nUsing ACME E-Commerce as our guide, we’ll walk through a step-by-step process to:\n\nDiagnose where your business is now\nCreate a guiding policy that sets you apart\nSequence coherent actions that move you forward\nCommunicate your strategy effectively\n\nRemember: It’s not about using AI everywhere. It’s about using it where it counts most for your business. Let’s walk through an example.",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Identify Your Strategy</span>"
-    ]
-  },
-  {
-    "objectID": "4_strategy.html#the-trap-of-hype-driven-implementation",
-    "href": "4_strategy.html#the-trap-of-hype-driven-implementation",
-    "title": "5  Identify Your Strategy",
-    "section": "",
-    "text": "A clear diagnosis of your organization’s challenges\nA coherent plan of action\nAlignment of resources to address these challenges",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Identify Your Strategy</span>"
     ]
@@ -637,11 +400,11 @@
     ]
   },
   {
-    "objectID": "8_lookatdata.html#yes-you-need-to-review-data",
-    "href": "8_lookatdata.html#yes-you-need-to-review-data",
+    "objectID": "8_lookatdata.html#you-yes-you-need-to-review-data",
+    "href": "8_lookatdata.html#you-yes-you-need-to-review-data",
     "title": "9  Looking at Data: Our Your Secret Weapon",
-    "section": "Yes, You Need To Review Data",
-    "text": "Yes, You Need To Review Data\nIn my consulting engagements, I always train executives on reviewing data. This approach is the main reason our clients see tangible results.\nUnderstanding the nuances of your AI systems isn’t just the domain of technicians and engineers—it’s a critical responsibility for executives.\nAs an executive, you’re in a unique position to bridge the gap between technical capabilities and business objectives. AI systems often interact with users in natural language, making the data more accessible than you might think. By personally reviewing AI interactions, you can:\n\nEnsure Alignment with Business Values: Verify that the AI represents your brand and communicates in a manner consistent with your company’s ethos.\nUncover Hidden Issues: Spot user experience problems, interface issues, or workflow bottlenecks that aggregated reports might miss.\nProvide Valuable Feedback: Your critiques can directly improve the AI’s performance, much like coaching a new employee.\n\nBelow, we provide you with a toolkit that provides a systematic approach to reviewing data.",
+    "section": "You (Yes, You) Need To Review Data",
+    "text": "You (Yes, You) Need To Review Data\nIn my consulting engagements, I always train executives on reviewing data. This approach is the main reason our clients see tangible results.\nUnderstanding the nuances of your AI systems isn’t just the domain of technicians and engineers—it’s a critical responsibility for executives.\nAs an executive, you’re in a unique position to bridge the gap between technical capabilities and business objectives. AI systems often interact with users in natural language, making the data more accessible than you might think. By personally reviewing AI interactions, you can:\n\nEnsure Alignment with Business Values: Verify that the AI represents your brand and communicates in a manner consistent with your company’s ethos.\nUncover Hidden Issues: Spot user experience problems, interface issues, or workflow bottlenecks that aggregated reports might miss.\nProvide Valuable Feedback: Your critiques can directly improve the AI’s performance, much like coaching a new employee.\n\nBelow, we provide you with a toolkit that provides a systematic approach to reviewing data.",
     "crumbs": [
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>Looking at Data: ~~Our~~ Your Secret Weapon</span>"
     ]
@@ -767,16 +530,6 @@
     ]
   },
   {
-    "objectID": "8_lookatdata.html#you-yes-you-need-to-review-data",
-    "href": "8_lookatdata.html#you-yes-you-need-to-review-data",
-    "title": "9  Looking at Data: Our Your Secret Weapon",
-    "section": "You (Yes, You) Need To Review Data",
-    "text": "You (Yes, You) Need To Review Data\nIn my consulting engagements, I always train executives on reviewing data. This approach is the main reason our clients see tangible results.\nUnderstanding the nuances of your AI systems isn’t just the domain of technicians and engineers—it’s a critical responsibility for executives.\nAs an executive, you’re in a unique position to bridge the gap between technical capabilities and business objectives. AI systems often interact with users in natural language, making the data more accessible than you might think. By personally reviewing AI interactions, you can:\n\nEnsure Alignment with Business Values: Verify that the AI represents your brand and communicates in a manner consistent with your company’s ethos.\nUncover Hidden Issues: Spot user experience problems, interface issues, or workflow bottlenecks that aggregated reports might miss.\nProvide Valuable Feedback: Your critiques can directly improve the AI’s performance, much like coaching a new employee.\n\nBelow, we provide you with a toolkit that provides a systematic approach to reviewing data.",
-    "crumbs": [
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Looking at Data: ~~Our~~ Your Secret Weapon</span>"
-    ]
-  },
-  {
     "objectID": "9_buildbuy.html",
     "href": "9_buildbuy.html",
     "title": "10  Build or Buy?",
@@ -802,16 +555,6 @@
     "title": "10  Build or Buy?",
     "section": "The Importance of Daily AI Use",
     "text": "The Importance of Daily AI Use\nAs an executive, it’s vital that you integrate AI into your daily workflow. Regular use helps you grasp AI’s real-world benefits and limitations, in turn informing your strategic decisions for applying it in your business. It’s also a great way to inspire ideas for adding new AI features to your products. You’ve hopefully been using ChatGPT and Claude already, but here are a few other AI tools that we’ve found particularly useful:\n\nCircleBack: Best-in-class meeting transcription and summarization.\nHemmingway: A writing assistant we use for more effective business communications.\nDescript: Makes video editing as simple as editing text.\nCursor: Versatile developer tool with surprising benefits for non-technical users that we’ll cover in the future.\n\nAs an action step, choose one tool to integrate into your daily workflow this week. Set a goal to use AI in at least five different ways each day. This could be drafting emails, taking notes, or even personal tasks like meal planning.\nShare your experiences with your team, and encourage a culture of AI adoption and experimentation.",
-    "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Build or Buy?</span>"
-    ]
-  },
-  {
-    "objectID": "9_buildbuy.html#you-need-to-constantly-use-ai",
-    "href": "9_buildbuy.html#you-need-to-constantly-use-ai",
-    "title": "10  Build or Buy?",
-    "section": "You Need To Constantly Use AI",
-    "text": "You Need To Constantly Use AI\nIf a capability isn’t part of your core skills or future products, consider buying it instead of building it. You don’t need to become a tech expert, but by identifying opportunities for tools to save you time and improve your workflows, you’ll be better positioned to lead your organization in the AI space.",
     "crumbs": [
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Build or Buy?</span>"
     ]
