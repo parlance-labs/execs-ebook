@@ -1,0 +1,3 @@
+:::{.footer}
+© 2024 [Parlance Labs](https://parlance-labs.com). All rights reserved.
+:::

@@ -1,0 +1,40 @@
+project:
+  type: book
+
+number-depth: 1
+
+book:
+  title: "AI Essentials For Executives"
+  site-url: "https://ai-execs.com/"
+  image: cover.png
+  open-graph: true
+  twitter-card:
+     creator: "@HamelHusain"
+     site: "@HamelHusain"
+     card-style: summary_large_image
+  favicon: b.png
+  date: 2025-01-03
+  page-footer: |
+    © 2025 [Parlance Labs](https://parlance-labs.com). All rights reserved.
+  chapters:
+    - index.qmd
+    - 2_intro.qmd
+    - 3_mistakes.qmd
+    - 3b_glossary.qmd
+    - 4_strategy.qmd
+    - 5_communicate.qmd
+    - 6_mobilize.qmd
+    - 7_hiring.qmd
+    - 8_lookatdata.qmd
+    - 9_buildbuy.qmd
+    - 10_conclusion.qmd
+
+format:
+  html:
+    theme: cosmo
+    include-before-body:
+      text: |
+       <a href="https://parlance-labs.com">
+        <img src="a.png" width="150px" style="float: left;" alt="">
+       </a>
+       <br><br>

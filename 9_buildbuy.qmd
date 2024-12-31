@@ -1,0 +1,39 @@
+---
+title: "Build or Buy?"
+author: 
+  - name: Greg Ceccarelli
+    url: https://www.linkedin.com/in/gregceccarelli/
+metadata-files:
+  - _subscribe.yml
+---
+
+This age-old question applies just as much to AI as it does to traditional tech: _Should we build it, or should we buy it?_     
+
+The descision hinges on whether the capability is part of your core skills or future products. If it is, build it. If not, buy it. When you've decided that buying is the right choice, finding the right tool is your next step.
+
+## Finding AI Tools
+
+Recently, we were working with a client who wanted to create automated data analysis to speed up debugging. Because this was only going to be used by the team instead of customers, we suggested they look at AI-powered data analysis tools like [Hex](https://hex.tech/) and [Julius](https://julius.ai/).
+
+Of course, data analysis is just one area of emerging AI tools for your business. To help you discover more, Greg developed the aptly-named [Greg's List](https://www.gregslist.ai/):
+
+[![Greg's List - A curated list of AI tools](gl.png)](https://www.gregslist.ai/){target="_blank"}
+ 
+This curated site has a list of AI tools for a wide variety of areas including HR, legal, and finance– just to name a few. There are many tools out there that will benefit your business, but don't forget about looking into tools that will help you personally.
+
+## The Importance of Daily AI Use
+
+As an executive, it's vital that you integrate AI into your daily workflow. Regular use helps you grasp AI's real-world benefits and limitations, in turn informing your strategic decisions for applying it in your business. It's also a great way to inspire ideas for adding new AI features to your products. You've hopefully been using ChatGPT and Claude already, but here are a few other AI tools that we've found particularly useful:
+
+  * [CircleBack](https://circleback.ai/): Best-in-class meeting transcription and summarization.
+  * [Hemmingway](https://hemingwayapp.com/): A writing assistant we use for more effective business communications.
+  * [Descript](https://www.descript.com/): Makes video editing as simple as editing text.
+  * [Cursor](https://www.cursor.com/): Versatile developer tool with surprising benefits for non-technical users that we'll cover in the future.
+
+As an action step, choose one tool to integrate into your daily workflow this week. Set a goal to use AI in at least five different ways each day. This could be drafting emails, taking notes, or even personal tasks like meal planning. 
+
+Share your experiences with your team, and encourage a culture of AI adoption and experimentation.
+
+## Conclusion
+
+If a capability isn't part of your core skills or future products, consider buying it instead of building it. You don't need to become a tech expert, but by identifying opportunities for tools to save you time and improve your workflows, you'll be better positioned to lead your organization in the AI space.

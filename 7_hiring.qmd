@@ -1,0 +1,42 @@
+---
+title: "Hiring the Right Team for AI"
+author: 
+  - name: Hamel Husain
+    url: https://hamel.dev
+metadata-files:
+  - _subscribe.yml
+---
+
+Another costly mistake that executives make is incorrectly hiring an AI team. This mistake can lead to wasted resources, team churn, and delayed AI efforts.
+
+## The AI Specialist Trap
+
+Many executives rush to hire data scientists or machine learning engineers right away. While these roles are crucial, bringing them on too early is a classic "foot gun" scenario. Here's why: 
+
+Data scientists and MLEs need data to work with. If you're still in product discovery, there's often little for them to do. 
+
+The people who fulfill these roles likely aren't equipped to build full-stack products from scratch. Lacking a clear product direction, they may inadvertently steer you off course.
+
+## A Smarter Hiring Progression
+
+Instead of immediately seeking AI specialists, follow this general progression when building an AI product:
+
+  1. **Focus on building the product** : Start by hiring Application Developers who can help iterate on the product concept quickly. At this stage, you're still figuring out what your product is and need to build a thesis.
+  2. **Build the data foundations** : Instrument your system to collect the right data and set up proper observability. This may require Platform or Data Engineers, depending on the type and scale of data you're working with.
+  3. **Optimize your AI system** : Once you have a working product and data, that's when you should hire MLEs or data scientists to optimize the system. At this point, they should be able to design metrics, build evaluation systems, run experiments, and debug stochastic systems.
+
+The key is to maintain a strong domain expert presence throughout each stage. 
+
+Another great option is to bring in advisors instead of hiring full-time specialists. Bringing in outside help can help you accomplish the three-step progression above while avoiding the commitment of a full-time hire.
+
+## Hiring the Right Way
+
+When you do reach the stage of hiring AI specialists, be strategic. 
+
+Test for data literacy by giving candidates messy datasets to work with. This crucial skill helps in designing effective metrics and evaluations. For a deeper dive, read Jason Liu's blog post [10 Ways to Be Data Illiterate (And How to Avoid Them)](https://jxnl.co/writing/2024/06/02/10-ways-to-be-data-illiterate-and-how-to-avoid-them/). 
+
+When the time comes to hire MLEs, Eugene Yan has a great [guide on interviewing](https://eugeneyan.com/writing/how-to-interview/). 
+
+Remember, the goal is to build a team– and the best way to do this is by hiring the right talent at the right time.
+
+Next, we'll share our secret weapon for uncovering AI flaws.

@@ -1,0 +1,29 @@
+---
+title: Preface
+toc: false
+---
+
+There's a significant disconnect between those building AI products and the executives making decisions about them– leading to misguided strategies and wasted resources. For non-practitioners, navigating the AI space is overwhelming. There's a sea of advice on how to create effective AI products, but much of it comes from sources that aren't hands-on with the technology. 
+
+Without practical experience, it's challenging to separate fact from fiction and make informed decisions. On the flip side, AI practitioners who are in the trenches often struggle to communicate their knowledge in a way that resonates with executives. They tend to think and speak in technical terms, which can be off-putting or confusing for those without a deep technical background. This is where we come in.
+
+## About the Authors
+
+![](about_us.png)
+
+I'm [Hamel Husain](https://hamel.dev), an AI practitioner deeply involved in the technical aspects of artificial intelligence. My partner is [Greg Ceccarelli](https://www.linkedin.com/in/gregceccarelli/), who brings extensive executive leadership experience as a Director and Chief Product Officer at large organizations like Pluralsight and GitHub. Together, we bring 25 years of industry experience and have advised [30+ companies](https://parlance-labs.com/) on their generative AI initiatives. 
+
+With the combination of my hands-on AI experience and Greg's executive leadership background, you can be sure that everything you read from us is both technically accurate and accessible to executives like you. In these next chapters, you'll receive practical and actionable insights on unlocking the true potential of AI to create competitive advantage.
+
+## What to Expect
+
+Each chapter is concise, yet packed with insights you can put into action right away. We're committed to delivering high-value content that respects your time. With our help, you'll be well on your way to:
+
+  * Distinguish between industry hype and reality
+  * Develop an AI roadmap aligned with your business goals
+  * Navigate the complexities of AI implementation with confidence
+  * Foster a culture of AI innovation within your organization
+
+We'll also provide you with cheat sheets and templates you can use to put these lessons into practice right away.
+
+Hamel Husain & Greg Ceccarelli

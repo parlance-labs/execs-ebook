@@ -1,0 +1,30 @@
+---
+title: "Conclusion"
+toc: false
+---
+
+In this guide, we've covered a lot of ground. These are the three ideas that we hope you'll take away:
+
+1. Stop chasing AI tools and focus on process first
+2. Look at your raw data - don't trust metrics blindly
+3. Build AI features that amplify your existing advantages through the right strategy
+
+Now it's time to put them into practice. Here are some resources you can use to learn more:
+
+- [Our free survey course on LLMs](https://hamel.dev/blog/posts/course/)​, taught by practitioners.  This is more technical than this series, but is a good resource for engineering teams to up-level on AI.
+- The O’Reilly article [​What We Learned From A Year Building With LLMs​](https://applied-llms.org/), written by Eugene Yan, Bryan Bischof, Charles Frye, Hamel Husain, Shreya Shankar, and Jason Liu.
+
+If you would like more hands-on help, you can [**work with us directly**](https://parlance-labs.com/) through our paid ​consulting services​ (but our availability may be limited).
+
+<br>
+
+## Stay Connected
+
+If you enjoyed this content, consider subscribing to [**our newsletter**](https://hamel.kit.com/7d15a4b6e7).
+
+What to expect:
+
+- Occasional emails with our latest insights on LLMs
+- Early access to new content
+- No spam, just honest thoughts and discoveries
+
