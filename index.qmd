@@ -7,6 +7,10 @@ There's a significant disconnect between those building AI products and the exec
 
 Without practical experience, it's challenging to separate fact from fiction and make informed decisions. On the flip side, AI practitioners who are in the trenches often struggle to communicate their knowledge in a way that resonates with executives. They tend to think and speak in technical terms, which can be off-putting or confusing for those without a deep technical background. This is where we come in.
 
+## Who is this for?
+
+This book is best suited for technology leaders who are managing teams responsible for shipping AI products.
+
 ## About the Authors
 
 ![](about_us.png)
