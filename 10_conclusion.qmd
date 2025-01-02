@@ -3,7 +3,7 @@ title: "Conclusion"
 toc: false
 ---
 
-In this guide, we've covered a lot of ground. These are the three ideas that we hope you'll take away:
+In this guide, we've covered a lot of ground. Below are three main ideas that we hope you'll take away:
 
 1. Stop chasing AI tools and focus on process first
 2. Look at your raw data - don't trust metrics blindly
