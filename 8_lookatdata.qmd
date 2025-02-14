@@ -51,7 +51,9 @@ To effectively review AI interactions, you need to see them as your users do. Te
 2. **Eliminate Technical Distractions**: Ensure the viewer focuses solely on the AI-user interactions without backend codes, logs, or intermediate AI processing steps.
 3. **Simplify Access**: The data viewer should be easily accessible—consider bookmarking it or setting it as your homepage for quick access.
 
-#### Tips
+### Requirements
+
+Here are the most important requirements for setting up a data viewer:
 
 - **Start with a Spreadsheet**: For simpler applications, a well-organized spreadsheet can be a quick and effective solution.
 - **Prioritize Visual Clarity**: The data viewer should present information clearly, using visuals where appropriate to enhance understanding.
@@ -79,7 +81,9 @@ Consistent, hands-on review keeps you connected to your AI's performance and use
 2. **Focus on Failure Modes**: Prioritize reviewing interactions where the AI may have underperformed or failed to meet user needs.
 3. **Review a Representative Sample**: Don't just look at problems; include successful interactions to understand what works well.
 
-#### Tips
+#### Tips For Setting Up a Daily Data Review Routine
+
+The most successful leaders I've worked with incorporate the following into their routine:
 
 - **Set Themes for Each Day**: Focus on different features or user segments each day to cover more ground over time.
 - **Use Random Sampling**: To avoid bias, randomly select interactions to review alongside targeted ones.
@@ -88,8 +92,6 @@ Consistent, hands-on review keeps you connected to your AI's performance and use
 ---
 
 ## Step 3: Categorize Data for Efficient Review
-
-
 
 Organizing data into categories helps you spot patterns, understand context, and make your review process more efficient. It allows you to focus on specific areas that are critical to your business objectives. **Your team needs to categorize this data prior to you reviewing it.**
 
@@ -168,13 +170,13 @@ For a more detailed explanation of the above table, click the blue button below.
   - **Unhandled Question**: The AI receives a query outside its capabilities and should gracefully inform the user.
 :::
 
+
 :::{.callout-tip}
 The examples above illustrate the AI doing the right thing.  The point of this example is to show example categories and scenarios, rather than show you examples of AI failures.
 :::
 
 
-
-#### Tips
+#### Tips For Effective Categorization
 
 - **Use Specific Scenarios**: Clearly define conditions that the AI must handle, which helps in assessing its performance in various situations.  By fleshing out these scenarios, you can pinpoint areas for improvement and ensure that the AI responds appropriately to user needs.
 - **Reflect Real User Behavior**: Include scenarios that represent common user mistakes or challenges.
@@ -194,7 +196,9 @@ Simplifying your evaluation to a Yes or No question—"Did the AI solve the cust
 2. **Avoid Complex Scoring Systems**: Resist the urge to rate on a scale; keep it simple to maintain consistency.
 3. **Document Your Decision**: Clearly mark each interaction as a success or failure.
 
-#### Tips
+#### Tips For Effective Binary Evaluations
+
+Simplifying your evaluation to a Yes or No question can be difficult at first.  Here are some tips to help you get started:
 
 - **Consistency is Key**: Use the same criteria for each evaluation to ensure fairness and reliability.
 - **Trust Your Instincts**: Your business acumen is valuable—don't second-guess your initial judgment.
@@ -251,11 +255,11 @@ To see further explanation of the above table, click the blue button below.
 - Interaction ID 011: Highlighting successful interactions reinforces good practices and provides models for desired AI behavior.  However, you should focus your critiques more on failures.
 :::
 
-:::{.callout-tip}
+:::{.callout-note}
 The above table contains a column named "Metrics Aligned (Y/N)".  We will discuss metrics in the next step. 
 :::
 
-#### Tips
+#### Tips for Writing Constructive Critiques
 
 - **Use Clear Language**: Avoid technical jargon; focus on the user experience.
 - **Be Objective**: Focus on the interaction, not the technology behind it.
@@ -281,7 +285,9 @@ Metrics are only valuable if they align with real-world outcomes. By comparing y
 - **Metric Reported**: Success (Score of 90%)
 - **Discrepancy**: "The AI didn't recognize an invalid date, but the metric indicates a high success rate. This suggests the metric isn't capturing date validation errors."
 
-#### Tips
+#### Tips on Cross-Referencing Metrics
+
+Here are some tactics to make sure the metrics are aligned with the data you are reviewing:
 
 - **Understand Key Metrics**: Familiarize yourself with the metrics your team uses to evaluate AI.
 - **Look for Patterns**: If certain metrics misalign with your evaluations, it indicates a need for metric refinement.
@@ -291,8 +297,6 @@ Metrics are only valuable if they align with real-world outcomes. By comparing y
 
 ## Step 7: Share Insights and Lead by Example
 
-
-
 Your active involvement signals to your team the importance of data review and continuous improvement. It fosters a culture where everyone is engaged in improving AI performance.
 
 ### Actions
@@ -301,12 +305,12 @@ Your active involvement signals to your team the importance of data review and c
 2. **Encourage Open Dialogue**: Invite team members to discuss their observations and suggestions.
 3. **Celebrate Successes and Learn from Failures**: Acknowledge both the AI's strengths and areas for improvement.
 
-#### Tips
+#### Getting Your Team Onboard With Data Review
 
-- **Lead by Example**: Your commitment will inspire others to take data review seriously.
+Here are simple steps you can take to make sure your team incorporates data review into their work:
+
 - **Create a Feedback Loop**: Establish regular meetings or channels where data review insights can be shared and acted upon.
 - **Recognize Contributions**: Highlight team members who make significant improvements based on data review.
-
 ---
 
 ## Recap of the Process
