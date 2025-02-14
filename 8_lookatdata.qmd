@@ -53,7 +53,7 @@ To effectively review AI interactions, you need to see them as your users do. Te
 
 ### Requirements
 
-Here are the most important requirements for setting up a data viewer:
+Start with the simplest thing that could possibly work.  Here are some requirements that you should keep in mind:
 
 - **Start with a Spreadsheet**: For simpler applications, a well-organized spreadsheet can be a quick and effective solution.
 - **Prioritize Visual Clarity**: The data viewer should present information clearly, using visuals where appropriate to enhance understanding.
@@ -178,6 +178,8 @@ The examples above illustrate the AI doing the right thing.  The point of this e
 
 #### Tips For Effective Categorization
 
+Here are ways to make sure your categories are effective:
+
 - **Use Specific Scenarios**: Clearly define conditions that the AI must handle, which helps in assessing its performance in various situations.  By fleshing out these scenarios, you can pinpoint areas for improvement and ensure that the AI responds appropriately to user needs.
 - **Reflect Real User Behavior**: Include scenarios that represent common user mistakes or challenges.
 - **Use Color Coding**: Assign colors to different scenarios for quicker visual scanning.
@@ -260,6 +262,8 @@ The above table contains a column named "Metrics Aligned (Y/N)".  We will discus
 :::
 
 #### Tips for Writing Constructive Critiques
+
+Here are some ways to maximize the impact of your critiques:
 
 - **Use Clear Language**: Avoid technical jargon; focus on the user experience.
 - **Be Objective**: Focus on the interaction, not the technology behind it.
