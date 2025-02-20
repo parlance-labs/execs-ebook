@@ -11,7 +11,8 @@ In this guide, we've covered a lot of ground. Below are three main ideas that we
 
 Now it's time to put them into practice. Here are some resources you can use to learn more:
 
-- [Our free survey course on LLMs](https://hamel.dev/blog/posts/course/)​, taught by practitioners.  This is more technical than this series, but is a good resource for engineering teams to up-level on AI.
+- [Our 4-week live-cohort course on evals](https://bit.ly/evals-ai): Learn a systematic approach for improving AI applications, regardless of the domain or use-case. 
+- [Our survey course on LLMs](https://hamel.dev/blog/posts/course/)​, taught by practitioners.  This is more technical than this series, but is a good resource for engineering teams to up-level on AI.
 - The O’Reilly article [​What We Learned From A Year Building With LLMs​](https://applied-llms.org/), written by Eugene Yan, Bryan Bischof, Charles Frye, Hamel Husain, Shreya Shankar, and Jason Liu.
 
 If you would like more hands-on help, you can [**work with us directly**](https://parlance-labs.com/) through our paid ​consulting services​ (but our availability may be limited).
